@@ -1,14 +1,3 @@
-## Tech Stack
-
-- **Frontend**: React 18
-- **Routing**: React Router v6
-- **Build Tool**: Vite
-
-## Fonts Used
-
-- **RezLabs Title & Logo**: Instrument Serif
-- **Body Text**: Inter
-
 ## Project Structure
 
 ```
