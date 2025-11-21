@@ -11,7 +11,7 @@ function Navbar() {
         </Link>
         <ul className="nav-menu">
           <li className="nav-item">
-            <Link to="/vision" className="nav-link">Vision</Link>
+            <Link to="/manifesto" className="nav-link">Manifesto</Link>
           </li>
           <li className="nav-item">
             <Link to="/why-rez" className="nav-link">Why Rez</Link>

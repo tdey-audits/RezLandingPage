@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import Home from './pages/Home';
-import Vision from './pages/Vision';
+import Manifesto from './pages/Manifesto';
 import WhyRez from './pages/WhyRez';
 import Litepaper from './pages/Litepaper';
 import './main.css';
@@ -15,7 +15,7 @@ function App() {
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/vision" element={<Vision />} />
+          <Route path="/manifesto" element={<Manifesto />} />
           <Route path="/why-rez" element={<WhyRez />} />
           <Route path="/litepaper" element={<Litepaper />} />
         </Routes>
