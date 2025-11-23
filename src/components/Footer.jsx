@@ -16,7 +16,7 @@ function Footer() {
               <ul className="footer-list">
                 <li><Link to="/manifesto" className="footer-link">Manifesto</Link></li>
                 <li><Link to="/why-rez" className="footer-link">Why Rez</Link></li>
-                <li><Link to="/litepaper" className="footer-link">Litepaper</Link></li>
+                <li><a href="https://github.com/0xtdey/rezlitepaper/blob/main/Rez_Litepaper.pdf" className="footer-link" target="_blank" rel="noopener noreferrer">Litepaper</a></li>
               </ul>
             </div>
 

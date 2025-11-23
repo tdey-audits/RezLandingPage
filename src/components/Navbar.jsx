@@ -17,7 +17,7 @@ function Navbar() {
             <Link to="/why-rez" className="nav-link">Why Rez</Link>
           </li>
           <li className="nav-item">
-            <Link to="/litepaper" className="nav-link">Litepaper</Link>
+            <a href="https://github.com/0xtdey/rezlitepaper/blob/main/Rez_Litepaper.pdf" className="nav-link" target="_blank" rel="noopener noreferrer">Litepaper</a>
           </li>
         </ul>
       </div>
